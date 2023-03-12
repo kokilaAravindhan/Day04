@@ -7,6 +7,6 @@ request.onload=function(){
   
    for(var i in result){
         console.log(result[i].flag);
-        console.log(result[i].name,result[i].region,result[i].subregion,result[i].population);
+       // console.log(result[i].name,result[i].region,result[i].subregion,result[i].population);
         }
     }
